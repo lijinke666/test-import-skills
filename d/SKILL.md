@@ -1,5 +1,5 @@
 ---
-name: test
+name: skill-d
 description: 描述
 ---
 
